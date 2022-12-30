@@ -4,7 +4,6 @@ It sniffs packet send and received from the interface for passwords use it with 
 Options:
 Usage: pwd_sniffer.py [options]
 
-Options:
   
   -h, --help                 show this help message and exit
   
