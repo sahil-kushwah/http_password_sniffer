@@ -1,2 +1,10 @@
 # http_password_sniffer
 It sniffs packet send and received from the interface for passwords use it with ARP spoofer to sniff packet within network
+
+![Screenshot 2022-12-30 135524](https://user-images.githubusercontent.com/109381227/210052084-48725eb8-f763-4a8c-b5ba-6849677a1d61.jpg)
+
+Example:
+
+Python3 pwd_sniffer.py -i eth0
+
+![Screenshot 2022-12-30 135638](https://user-images.githubusercontent.com/109381227/210052188-a5ff4a75-2865-48e1-b125-b6e5de2bd081.jpg)
